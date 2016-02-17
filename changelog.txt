@@ -1,3 +1,4 @@
 Hank - Fixed configuration files Autoload and Database - 4:24 pm Feb 16
 Dhivya -  Fixed homepage : file - Welcome.php - 5:22pm Feb 16
 Hank - Did step 3 (Changed neworder function) - 5:42 pm Feb 16
+Dhivya - Fixed Handle Order display : file - Order.php, Orders.php - 6:38 pm Feb 16
